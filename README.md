@@ -2,8 +2,6 @@
 
 Weather Check Agent is a lightweight automation tool built with Python and Selenium that automates a daily task—retrieving the current weather for a specified city. Instead of manually checking the weather online, this agent opens Google’s weather search page, extracts the current weather condition, and compares it with an expected condition provided by the user. 
 
-**NOTE: PLEASE CHECK THE MASTER BRANCH FOR THE ENTIRE CODE**
-
 ## Problem Statement
 
 Many users perform daily weather checks manually to plan their day. Weather Check Agent automates this routine by:
